@@ -47,7 +47,7 @@ You’ll see these referenced throughout the schedule.
 
 # Two-week acceleration (Daily schedule)
 
-**Time per day:** ~3–5 hours (mix of learning + hands-on).  
+**Time per day:** ~1-2 hours (mix of learning + hands-on).  
 **Goal:** get you to “build-first competence” fast: Azure OpenAI + RAG + .NET orchestration + safety + evaluation.
 
 ### Course/link index (used in order below)
