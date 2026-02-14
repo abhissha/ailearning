@@ -1,4 +1,4 @@
-# Pathway: Lead Product & App Architect ➜ AI Architect / AI Solutions Architect (Azure + .NET)
+Pathway for AI Architect / AI Solutions Architect (Azure + .NET)
 
 **Assumptions:** You already build/own Azure architectures, C#/.NET services, identity, observability, and enterprise governance. This plan adds *AI system design*, *LLM app patterns*, *agentic orchestration*, and *MLOps + Responsible AI*—with a heavy build focus.
 
